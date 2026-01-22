@@ -1,0 +1,5 @@
+﻿  server.cpp
+C:\Users\Chris\Desktop\IDE\Networks Class\Lab 2\Server\Server\server.cpp(133,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Server.vcxproj -> C:\Users\Chris\Desktop\IDE\Networks Class\Lab 2\Server\x64\Debug\Server.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

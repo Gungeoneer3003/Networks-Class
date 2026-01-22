@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Chris\Desktop\IDE\Networks Class\Lab 1\Lab 1\Lab 1\main.cpp(92,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab 1.vcxproj -> C:\Users\Chris\Desktop\IDE\Networks Class\Lab 1\Lab 1\Debug\Lab 1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

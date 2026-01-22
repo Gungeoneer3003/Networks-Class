@@ -1,0 +1,5 @@
+﻿  Client A.cpp
+C:\Users\Chris\Desktop\IDE\Networks Class\Lab 2\Client A\Client A\Client A.cpp(98,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client A.vcxproj -> C:\Users\Chris\Desktop\IDE\Networks Class\Lab 2\Client A\x64\Debug\Client A.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
